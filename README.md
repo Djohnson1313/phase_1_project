@@ -42,4 +42,4 @@ Boeing 747. moderatly low incidnet rate with quad turbo fans. Large capacity.
 
 Recommendation 3:
 
-Cessna Latitude. SMaller size business jet with no reported fatalities with this aircraft. dual turbo fan allowing for redundancey.
+Cessna Latitude. Smaller size business jet with no reported fatalities. dual turbo fan allowing for redundancey.
