@@ -19,3 +19,27 @@ accommodations in the event of an incident
 ## Engine count
 
 engine count plays a huge roll in an aircrafts safety. increasing the engine count from 1 to 2 causes a 66% reduction in indcidents.
+
+## Fatality rate
+
+We will only be considering aircraft that has an extremely low fatality rate
+
+## Incident accommodations 
+
+In the event of an icident, it is important to have easy access to an exit, allowing for a quick escape of a dangerous situation.
+
+## conclusion
+
+With these metrics in mind, three candidates have taken the spotlight:
+
+Recommendation 1:
+
+Airbus A330. extremely low incidents rate with dual turbo fan engines. medium capacity and fairly quiet when compared to other aircraft.
+
+Recommendation 2:
+
+Boeing 747. moderatly low incidnet rate with quad turbo fans. Large capacity.
+
+Recommendation 3:
+
+Cessna Latitude. SMaller size business jet with no reported fatalities with this aircraft. dual turbo fan allowing for redundancey.
