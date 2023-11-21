@@ -9,12 +9,12 @@ Safety is our businesses top priority. So how do we find an aircraft that can re
 There are 3 main metrics we will use, including:
 
 Engine count
-  single engine vs dual engine
+-single engine vs dual engine
 
 fatality rate
 
 accommodations in the event of an incident 
-  exit count 
+-exit count 
 
 ## Engine count
 
