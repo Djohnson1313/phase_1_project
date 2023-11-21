@@ -26,7 +26,7 @@ We will only be considering aircraft that has an extremely low fatality rate
 
 ## Incident accommodations 
 
-In the event of an icident, it is important to have easy access to an exit, allowing for a quick escape of a dangerous situation.
+In the event of an incident, it is important to have easy access to an exit, allowing for a quick escape of a dangerous situation.
 
 ## conclusion
 
