@@ -15,6 +15,9 @@ Safety is this business's top priority, so what plane can meet our standards? We
 
 engine count plays a huge roll in an aircrafts safety. increasing the engine count from 1 to 2 causes a 66% reduction in indcidents.
 
+
+![Screenshot 2023-11-28 112845](https://github.com/Djohnson1313/phase_1_project/assets/145507761/46bd5d02-375b-42b8-977d-7de6dd9ba0c8)
+
 ## Engine Type
 
 The type of engine drastically alters an aircrafts safety capability 
@@ -23,7 +26,7 @@ The type of engine drastically alters an aircrafts safety capability
 
 In the event of an incident, it is important to have easy access to an exit, allowing for a quick escape of a dangerous situation, as well as slides to exit the tall aircraft, and airmasks in the event of an incident mid flight.
 
-===
+
 
 ## conclusion
 
