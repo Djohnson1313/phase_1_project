@@ -1,5 +1,5 @@
 # Plane Safety Using NTSB Data Sheet 
-<<<<<<< HEAD
+
 Darryn Johnson
 Instructor : Morgan Jones
 
