@@ -1,40 +1,29 @@
-# phase_1_project
+# Plane Safety Using NTSB Data Sheet 
 <<<<<<< HEAD
-https://public.tableau.com/app/profile/darryn.johnson/viz/Recommendationproject/Dashboard1?publish=yes
+Darryn Johnson
+Instructor : Morgan Jones
 
-## What plane should this business purchase?
+## Overview
 
-Safety is this businesses top priority, so what plane can meet our standards? In this project, we look into the National Transportation safety board Accident Database to see some information on incident rate, fatality rate, and some other information that will guide us to a quality purchase.
+In this repository, we take a look at the National Transportaion Safety Board Data Sheet involving aircraft incidents from 1962 onward. This data sheet contains 88889 entries, with 31 columns.  
 
-=======
+## Business undertanding 
 
-## What aircraft should our business purchase?
-
-Safety is our businesses top priority. So how do we find an aircraft that can reach our safety standard? Today we are using the National Transportation Safety Board Accident Database to gather informatin on aircraft incidents. 
-
-## What metrics will we use to identify a safe aircraft?
-
-There are 3 main metrics we will use, including:
-
-Engine count
--single engine vs dual engine
-
-fatality rate
-
-accommodations in the event of an incident 
--exit count 
+Safety is this business's top priority, so what plane can meet our standards? We will use 3 main metrics to determine what plane should be purchased. These metrics are : Engine count, Engine type and Accomidations in the event of an incident.
 
 ## Engine count
 
 engine count plays a huge roll in an aircrafts safety. increasing the engine count from 1 to 2 causes a 66% reduction in indcidents.
 
-## Fatality rate
+## Engine Type
 
-We will only be considering aircraft that has an extremely low fatality rate
+The type of engine drastically alters an aircrafts safety capability 
 
 ## Incident accommodations 
 
-In the event of an incident, it is important to have easy access to an exit, allowing for a quick escape of a dangerous situation.
+In the event of an incident, it is important to have easy access to an exit, allowing for a quick escape of a dangerous situation, as well as slides to exit the tall aircraft, and airmasks in the event of an incident mid flight.
+
+===
 
 ## conclusion
 
