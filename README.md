@@ -47,5 +47,7 @@ Cessna Latitude. Smaller size business jet with no reported fatalities. dual tur
 
 ## Dashboard
 
+![Screenshot 2023-11-28 122717](https://github.com/Djohnson1313/phase_1_project/assets/145507761/02a42c2a-5157-4aa4-b205-a5abbd56ffcd)
+
 https://public.tableau.com/app/profile/darryn.johnson/viz/Recommendationproject/Dashboard1?publish=yes
 >>>>>>> f4a2abcfbd36d3bbc47bb4eac61cb5aba275982f
