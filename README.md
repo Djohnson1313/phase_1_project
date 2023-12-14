@@ -60,7 +60,7 @@ Recommendation 3:
 https://public.tableau.com/app/profile/darryn.johnson/viz/Recommendationproject/Dashboard1?publish=yes
 >>>>>>> f4a2abcfbd36d3bbc47bb4eac61cb5aba275982f
 
-## Disrtibution of The Data
+## Distribution of The Data
 
 ![Screenshot 2023-12-13 132151](https://github.com/Djohnson1313/phase_1_project/assets/145507761/40591c2f-eb85-40f5-a817-c915a8f6857b)
 
