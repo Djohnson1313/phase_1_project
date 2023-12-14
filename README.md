@@ -11,7 +11,7 @@ In this repository, we take a look at the National Transportaion Safety Board Da
 
 ## Business undertanding 
 
-Safety is this business's top priority, so what plane can meet our standards? We will use 3 main metrics to determine what plane should be purchased. These metrics are : Engine count, Engine type and Accomidations in the event of an incident.
+Safety is this business's top priority, so what plane can meet our standards? We will use 3 main metrics to determine what plane should be purchased. These metrics are : Engine Count, Engine Type and Purpose of Flight.
 
 ## Engine count
 
