@@ -64,7 +64,7 @@ https://public.tableau.com/app/profile/darryn.johnson/viz/Recommendationproject/
 
 ![Screenshot 2023-12-13 132151](https://github.com/Djohnson1313/phase_1_project/assets/145507761/40591c2f-eb85-40f5-a817-c915a8f6857b)
 
-Here we see a majority of the incidents have 0 fatalities, nearly 80 % to be exact. while there are a few outliers, most flights are extremely safe in the modern erra.
+Here we see a majority of the incidents have 0 fatalities, nearly 80 % to be exact. While there are a few outliers, most flights are extremely safe in the modern erra.
 ## Respository Structure
 ```
 ├── AviationData.csv
