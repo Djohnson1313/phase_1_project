@@ -2,6 +2,8 @@
 
 Darryn Johnson
 Instructor : Morgan Jones
+12/13/2023
+blog : [Is Data Science Right For You?](https://datascienceandyou.blogspot.com/2023/12/is-data-science-right-for-you.html)
 
 ## Overview
 
@@ -23,11 +25,11 @@ The type of engine drastically alters an aircrafts safety capability
 
 ![Screenshot 2023-11-28 113249](https://github.com/Djohnson1313/phase_1_project/assets/145507761/7f5892fa-f5f0-444d-8b8e-d8485cb8e526)
 
-## Incident accommodations 
+## Purpose of Flight
 
-In the event of an incident, it is important to have easy access to an exit, allowing for a quick escape of a dangerous situation, as well as slides to exit the tall aircraft, and airmasks in the event of an incident mid flight.
+The purpose of the flight has more of an impact then you would think. Things like a professional crew for a commcercial aircraft vs an amateur pilot in a small size aircraft drastically alters the safety of the flight.  
 
-![Screenshot 2023-11-28 113351](https://github.com/Djohnson1313/phase_1_project/assets/145507761/e310f3cf-5641-4a69-9f5e-e13629437a46)
+![Screenshot 2023-12-13 172953](https://github.com/Djohnson1313/phase_1_project/assets/145507761/265ecf0b-f820-4113-b04a-b9cbcf963b97)
 
 ## conclusion
 
@@ -35,15 +37,21 @@ With these metrics in mind, three candidates have taken the spotlight:
 
 Recommendation 1:
 
-Airbus A330. extremely low incidents rate with dual turbo fan engines. medium capacity and fairly quiet when compared to other aircraft.
+- Airbus A330.
+  - Extremely low incidents rate with dual turbo fan engines.
+  - Medium capacity and fairly quiet when compared to other aircraft.
 
 Recommendation 2:
 
-Boeing 747. moderatly low incidnet rate with quad turbo fans. Large capacity.
+- Boeing 747.
+  - Moderatly low incidnet rate with quad turbo fans.
+  - Large capacity.
 
 Recommendation 3:
 
-Cessna Latitude. Smaller size business jet with no reported fatalities. dual turbo fan allowing for redundancey.
+- Cessna Latitude.
+  - Smaller size business jet with no reported fatalities.
+  - Dual turbo fan allowing for redundancey.
 
 ## Dashboard
 
@@ -52,10 +60,14 @@ Cessna Latitude. Smaller size business jet with no reported fatalities. dual tur
 https://public.tableau.com/app/profile/darryn.johnson/viz/Recommendationproject/Dashboard1?publish=yes
 >>>>>>> f4a2abcfbd36d3bbc47bb4eac61cb5aba275982f
 
+## Disrtibution of The Data
+
+![Screenshot 2023-12-13 132151](https://github.com/Djohnson1313/phase_1_project/assets/145507761/40591c2f-eb85-40f5-a817-c915a8f6857b)
+Here we see a majority of the incidents have 0 fatalities, nearly 80 % to be exact. while there are a few outliers, most flights are extremely safe in the modern erra.
 ## Respository Structure
-'''
+```
 ├── AviationData.csv
 ├── README.md
 ├── phase_1_project_final.ipynb
 └── presentation_final.pdf
-'''
+```
