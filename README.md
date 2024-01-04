@@ -13,6 +13,12 @@ In this repository, we take a look at the National Transportaion Safety Board Da
 
 Safety is this business's top priority, so what plane can meet our standards? We will use 3 main metrics to determine what plane should be purchased. These metrics are : Engine Count, Engine Type and Purpose of Flight.
 
+## Distribution of The Data
+
+![Screenshot 2023-12-13 132151](https://github.com/Djohnson1313/phase_1_project/assets/145507761/40591c2f-eb85-40f5-a817-c915a8f6857b)
+
+Here we see a majority of the incidents have 0 fatalities, nearly 80 % to be exact. While there are a few outliers, most flights are extremely safe in the modern erra.
+
 ## Engine count
 
 engine count plays a huge roll in an aircrafts safety. increasing the engine count from 1 to 2 causes a 66% reduction in indcidents.
@@ -60,11 +66,6 @@ Recommendation 3:
 https://public.tableau.com/app/profile/darryn.johnson/viz/Recommendationproject/Dashboard1?publish=yes
 >>>>>>> f4a2abcfbd36d3bbc47bb4eac61cb5aba275982f
 
-## Distribution of The Data
-
-![Screenshot 2023-12-13 132151](https://github.com/Djohnson1313/phase_1_project/assets/145507761/40591c2f-eb85-40f5-a817-c915a8f6857b)
-
-Here we see a majority of the incidents have 0 fatalities, nearly 80 % to be exact. While there are a few outliers, most flights are extremely safe in the modern erra.
 ## Respository Structure
 ```
 ├── AviationData.csv
