@@ -27,6 +27,8 @@ engine count plays a huge roll in an aircrafts safety. increasing the engine cou
 
 ![Screenshot 2024-01-05 224524](https://github.com/Djohnson1313/phase_1_project/assets/145507761/c603ee4c-2419-4fbc-9f2c-3e42a0c50aae)
 
+Single engine aircraft are also associated with 25% of fatalities, whereas dual engine are only associated with 5%.
+
 ## Engine Type
 
 The type of engine drastically alters an aircrafts safety capability 
@@ -35,7 +37,9 @@ The type of engine drastically alters an aircrafts safety capability
 
 ## Purpose of Flight
 
-The purpose of the flight has more of an impact then you would think. Things like a professional crew for a commcercial aircraft vs an amateur pilot in a small size aircraft drastically alters the safety of the flight.  
+![Screenshot 2024-01-05 224722](https://github.com/Djohnson1313/phase_1_project/assets/145507761/2fdc8bbf-b207-438c-9460-aa053882e418)
+
+The purpose of the flight has more of an impact then you would think. Things like a professional crew for a commercial aircraft vs an amateur pilot in a small size aircraft drastically alters the safety of the flight.  
 
 ![Screenshot 2023-12-13 172953](https://github.com/Djohnson1313/phase_1_project/assets/145507761/265ecf0b-f820-4113-b04a-b9cbcf963b97)
 
