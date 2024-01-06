@@ -25,6 +25,8 @@ engine count plays a huge roll in an aircrafts safety. increasing the engine cou
 
 ![Screenshot 2023-11-28 112845](https://github.com/Djohnson1313/phase_1_project/assets/145507761/46bd5d02-375b-42b8-977d-7de6dd9ba0c8)
 
+![Screenshot 2024-01-05 224524](https://github.com/Djohnson1313/phase_1_project/assets/145507761/c603ee4c-2419-4fbc-9f2c-3e42a0c50aae)
+
 ## Engine Type
 
 The type of engine drastically alters an aircrafts safety capability 
