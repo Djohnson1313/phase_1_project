@@ -13,11 +13,21 @@ In this repository, we take a look at the National Transportaion Safety Board Da
 
 Safety is this business's top priority, so what plane can meet our standards? We will use 3 main metrics to determine what plane should be purchased. These metrics are : Engine Count, Engine Type and Purpose of Flight.
 
+## Distribution of The Data
+
+![Screenshot 2023-12-13 132151](https://github.com/Djohnson1313/phase_1_project/assets/145507761/40591c2f-eb85-40f5-a817-c915a8f6857b)
+
+Here we see a majority of the incidents have 0 fatalities, nearly 80 % to be exact. While there are a few outliers, most flights are extremely safe in the modern era.
+
 ## Engine count
 
 engine count plays a huge roll in an aircrafts safety. increasing the engine count from 1 to 2 causes a 66% reduction in indcidents.
 
 ![Screenshot 2023-11-28 112845](https://github.com/Djohnson1313/phase_1_project/assets/145507761/46bd5d02-375b-42b8-977d-7de6dd9ba0c8)
+
+![Screenshot 2024-01-05 224524](https://github.com/Djohnson1313/phase_1_project/assets/145507761/c603ee4c-2419-4fbc-9f2c-3e42a0c50aae)
+
+Single engine aircraft are also associated with 25% of fatalities, whereas dual engine are only associated with 5%.
 
 ## Engine Type
 
@@ -27,7 +37,9 @@ The type of engine drastically alters an aircrafts safety capability
 
 ## Purpose of Flight
 
-The purpose of the flight has more of an impact then you would think. Things like a professional crew for a commcercial aircraft vs an amateur pilot in a small size aircraft drastically alters the safety of the flight.  
+![Screenshot 2024-01-05 224722](https://github.com/Djohnson1313/phase_1_project/assets/145507761/2fdc8bbf-b207-438c-9460-aa053882e418)
+
+The purpose of the flight has more of an impact then you would think. Things like a professional crew for a commercial aircraft vs an amateur pilot in a small size aircraft drastically alters the safety of the flight.  
 
 ![Screenshot 2023-12-13 172953](https://github.com/Djohnson1313/phase_1_project/assets/145507761/265ecf0b-f820-4113-b04a-b9cbcf963b97)
 
@@ -60,15 +72,10 @@ Recommendation 3:
 https://public.tableau.com/app/profile/darryn.johnson/viz/Recommendationproject/Dashboard1?publish=yes
 >>>>>>> f4a2abcfbd36d3bbc47bb4eac61cb5aba275982f
 
-## Distribution of The Data
-
-![Screenshot 2023-12-13 132151](https://github.com/Djohnson1313/phase_1_project/assets/145507761/40591c2f-eb85-40f5-a817-c915a8f6857b)
-
-Here we see a majority of the incidents have 0 fatalities, nearly 80 % to be exact. While there are a few outliers, most flights are extremely safe in the modern erra.
 ## Respository Structure
 ```
 ├── AviationData.csv
 ├── README.md
 ├── phase_1_project_final.ipynb
-└── presentation_final.pdf
+└── presentation.pdf
 ```
