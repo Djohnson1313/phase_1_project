@@ -1,9 +1,7 @@
 # Plane Safety Using NTSB Data Sheet 
 
-- Darryn Johnson
-- Instructor : Morgan Jones
+- DJohnson1313
 - 12/13/2023
-- blog : [Is Data Science Right For You?](https://datascienceandyou.blogspot.com/2023/12/is-data-science-right-for-you.html)
 
 ## Overview
 
